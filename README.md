@@ -1,5 +1,5 @@
 # Netflix Clone using React & Tailwind CSS
-<a href="https://netflix-clone-react-188c1.web.app/">Hosted here</a>
+<a href="https://netflix-clone-react-188c1.web.app/" target="_blank">Hosted here</a>
 
 In this project I have built a netflix clone using reactjs and tailwindcss. 
 API used is - The moviedb
